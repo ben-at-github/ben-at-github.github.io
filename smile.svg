@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="smile.svg">
+  <title
+     id="title4144">Smile</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="76.580638"
+     inkscape:cy="59.48995"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Smile</dc:title>
+        <cc:license
+           rdf:resource="" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-924.36216)">
+    <circle
+       style="opacity:0.9;fill:#ffff00;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="path4136"
+       cx="64"
+       cy="988.36218"
+       r="64" />
+    <circle
+       style="opacity:0.9;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="path4138"
+       cx="41"
+       cy="967.36218"
+       r="9" />
+    <circle
+       r="9"
+       cy="967.36218"
+       cx="87"
+       id="circle4140"
+       style="opacity:0.9;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1" />
+    <path
+       style="opacity:0.9;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="path4142"
+       sodipodi:type="arc"
+       sodipodi:cx="64"
+       sodipodi:cy="1018.0193"
+       sodipodi:rx="33.392857"
+       sodipodi:ry="17.5"
+       sodipodi:start="0"
+       sodipodi:end="3.1415927"
+       sodipodi:open="true"
+       d="m 97.392857,1018.0193 a 33.392857,17.5 0 0 1 -16.696429,15.1554 33.392857,17.5 0 0 1 -33.392857,0 33.392857,17.5 0 0 1 -16.696428,-15.1554" />
+  </g>
+</svg>
