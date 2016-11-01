@@ -1,6 +1,61 @@
 <!DOCTYPE html>
 <html>
+<head>
+	
+	<title>Hi Everyone!</title>
+	
+	<style>
+		body {
+			text-align: center;
+			font-family: sans-serif;
+		}
+		
+		input {
+			font-size: 16pt;
+		}
+		
+		#name {
+			width: 33%;
+			max-width: 400px;
+		}
+	</style>
+	
+	<script type="text/javascript">
+	
+		function loadName() {
+			var name = document.getElementById("name").value;
+			if (name.length > 0) {
+				document.getElementById('nameTarget').innerText = "Hi " + name + "!";
+			}
+		}
+		
+	</script>
+	
+</head>
 <body>
-<h1>Hello World</h1>
+	
+	<h1>Hello World!</h1>
+		
+	<svg height="128" width="128" viewBox="0 0 128 128">
+		<title>Smile</title>
+		<g transform="translate(0 -924.36)">
+			<circle cx="64" cy="988.36" r="64" fill="#ff0"/>
+			<g>
+				<circle cx="41" cy="967.36" r="9"/>
+				<circle cy="967.36" cx="87" r="9"/>
+				<path d="m97.393 1018a33.393 17.5 0 0 1 -16.696 15.155 33.393 17.5 0 0 1 -33.393 0 33.393 17.5 0 0 1 -16.696 -15.155"/>
+			</g>
+		</g>
+	</svg>
+	
+	<h3>What's your name?</h3>
+	
+	<form onsubmit="loadName(); return false;">
+		<input id="name" type="text" />
+		<input type="submit" value="Enter" />
+	</form>
+	
+	<h1 id="nameTarget" />
+	
 </body>
 </html>
