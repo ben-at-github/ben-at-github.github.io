@@ -3,11 +3,14 @@
 <head>
 	
 	<title>Hi Everyone!</title>
+	<link rel="icon" href="favicon.ico">
 	
 	<style>
 		body {
 			text-align: center;
 			font-family: sans-serif;
+			background: #01ABAA;
+			color: #FFFFFF
 		}
 		
 		input {
@@ -20,12 +23,12 @@
 		}
 	</style>
 	
-	<script type="text/javascript">
+	<script>
 	
 		function loadName() {
 			var name = document.getElementById("name").value;
 			if (name.length > 0) {
-				document.getElementById('nameTarget').innerText = "Hi " + name + "!";
+				document.getElementById("nameTarget").innerText = "Hi " + name + "!";
 			}
 		}
 		
@@ -35,11 +38,11 @@
 <body>
 	
 	<h1>Hello World!</h1>
-		
-	<svg height="128" width="128" viewBox="0 0 128 128">
+	
+	<svg id="smile" height="128" width="128" viewBox="0 0 128 128">
 		<title>Smile</title>
 		<g transform="translate(0 -924.36)">
-			<circle cx="64" cy="988.36" r="64" fill="#ff0"/>
+			<circle cx="64" cy="988.36" r="64" fill="#FEDC3D"/>
 			<g>
 				<circle cx="41" cy="967.36" r="9"/>
 				<circle cy="967.36" cx="87" r="9"/>
